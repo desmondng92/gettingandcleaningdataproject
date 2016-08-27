@@ -14,7 +14,7 @@
 ## •An identifier of the subject who carried out the experiment.
 
 # The script,  run_analysis.R , does the following:
-## 1. Merge the training and the test sets to create one data set.
+# 1. Merge the training and the test sets to create one data set.
 ## step 1: load data into R 
 ## In this section, the following variable are created with respect to the data provided:-
 ## 1.train.x source from X_train.txt
